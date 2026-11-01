@@ -1,0 +1,12 @@
+Job Title: Junior Software Developer
+
+Required Skills:
+Python, SQL, Git, React
+
+Preferred Skills:
+Machine Learning, REST API, Docker
+
+Responsibilities:
+- Develop and maintain web applications.
+- Work with data and build basic machine learning solutions.
+- Collaborate with the development team.
